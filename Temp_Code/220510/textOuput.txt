@@ -1,0 +1,773 @@
+Microsoft Windows [Version 10.0.19044.1645]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\hfastdlab>cd desktop
+
+C:\Users\hfastdlab\Desktop>py -3 aoi.py
+b'Live Pupil X\tLive Pupil Y\tLive Monaco X1\tLive Monaco Y1\tLive Rio X1\tLive Rio Y1\tLive Zurich X1\tLive Zurich Y1\tLive Moscow X1\tLive Moscow Y1\r\n'
+b'223.692535400391\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.692535400391\t111.592109680176\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.692535400391\t111.592109680176\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.858291625977\t111.592109680176\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.858291625977\t111.453132629395\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t111.453132629395\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'224.512176513672\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.512176513672\t109.446144104004\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.612152099609\t109.446144104004\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.612152099609\t110.752136230469\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t110.752136230469\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'224.85400390625\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.85400390625\t110.172294616699\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.197708129883\t110.172294616699\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'197.457275390625\t110.437843322754\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'197.923889160156\t117.038932800293\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.130935668945\t117.072067260742\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t110.504112243652\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'223.826126098633\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.826126098633\t110.626739501953\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.352172851563\t110.626739501953\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.352172851563\t110.608291625977\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.370056152344\t110.608291625977\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.370056152344\t109.15380859375\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t109.15380859375\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'225.357360839844\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.357360839844\t109.933708190918\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.236297607422\t109.933708190918\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.236297607422\t111.560607910156\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.86865234375\t111.560607910156\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.86865234375\t110.064743041992\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.101165771484\t110.064743041992\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.101165771484\t110.510154724121\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t110.510154724121\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'225.069839477539\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.069839477539\t110.974220275879\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t110.974220275879\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'225.171173095703\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.171173095703\t112.371765136719\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t112.371765136719\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'226.705612182617\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.705612182617\t111.52473449707\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.177871704102\t111.52473449707\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.177871704102\t111.546432495117\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t111.546432495117\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'223.589752197266\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.589752197266\t112.188125610352\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.774993896484\t112.188125610352\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.774993896484\t109.650688171387\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t109.650688171387\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'224.858917236328\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.858917236328\t111.049476623535\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.737060546875\t111.049476623535\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.737060546875\t110.896705627441\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.424835205078\t110.896705627441\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.424835205078\t111.106216430664\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.269012451172\t111.106216430664\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.269012451172\t109.452362060547\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.760452270508\t109.452362060547\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.760452270508\t110.49683380127\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t110.49683380127\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'226.423965454102\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.423965454102\t110.227653503418\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.290451049805\t110.227653503418\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.290451049805\t111.123878479004\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t111.123878479004\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'224.506454467773\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.506454467773\t111.942604064941\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.528717041016\t111.942604064941\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.528717041016\t110.063041687012\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.369110107422\t110.063041687012\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.369110107422\t112.227386474609\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t112.227386474609\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'225.527709960938\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.527709960938\t110.632331848145\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.934982299805\t110.632331848145\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.934982299805\t110.228294372559\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.748611450195\t110.228294372559\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.748611450195\t110.245933532715\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t110.245933532715\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'225.318374633789\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'286.169441223145\t109.654319763184\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'347.0205078125\t157.791904449463\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t205.929489135742\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'225.193817138672\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.193817138672\t110.270957946777\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.863327026367\t110.270957946777\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.863327026367\t110.665863037109\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t110.665863037109\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'225.656723022461\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.656723022461\t108.762153625488\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'227.785263061523\t108.762153625488\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'227.785263061523\t110.103996276855\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t110.103996276855\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'225.98649597168\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.98649597168\t110.861305236816\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.281005859375\t110.861305236816\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.281005859375\t111.754951477051\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.202438354492\t111.754951477051\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.202438354492\t111.690200805664\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t111.690200805664\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'223.945846557617\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'223.945846557617\t111.86695098877\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.290115356445\t111.86695098877\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.290115356445\t110.523826599121\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t110.523826599121\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'225.596176147461\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.596176147461\t111.001182556152\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.974029541016\t111.001182556152\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.974029541016\t109.438659667969\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.057800292969\t109.438659667969\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.057800292969\t113.032073974609\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.8896484375\t113.032073974609\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.8896484375\t111.235443115234\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.071350097656\t111.235443115234\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.071350097656\t109.639389038086\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.538055419922\t109.639389038086\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.538055419922\t110.125465393066\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.50553894043\t110.125465393066\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.50553894043\t111.430061340332\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t111.430061340332\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'224.820556640625\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.820556640625\t111.355407714844\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.414794921875\t111.355407714844\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.414794921875\t111.538887023926\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.818786621094\t111.538887023926\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.818786621094\t111.517250061035\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t111.517250061035\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'226.399261474609\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.399261474609\t111.956298828125\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.69758605957\t111.956298828125\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.69758605957\t110.272331237793\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.429824829102\t110.272331237793\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'224.429824829102\t111.848434448242\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.075988769531\t111.848434448242\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.075988769531\t110.059455871582\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'222.942596435547\t110.059455871582\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'222.942596435547\t113.37516784668\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.099792480469\t113.37516784668\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.099792480469\t109.18758392334\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t109.18758392334\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'225.117004394531\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'225.117004394531\t108.863563537598\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t108.863563537598\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+b'226.187805175781\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'226.187805175781\t110.163902282715\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'222.989883422852\t110.163902282715\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'222.989883422852\t113.774688720703\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+b'0\t113.774688720703\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'224.469253540039\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.469253540039\t110.658378601074\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.939300537109\t110.658378601074\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.939300537109\t110.896072387695\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t110.896072387695\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'225.01985168457\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.01985168457\t111.016265869141\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t111.016265869141\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'227.034729003906\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'227.034729003906\t109.803428649902\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'226.030624389648\t109.803428649902\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'226.030624389648\t108.900489807129\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t108.900489807129\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'225.657409667969\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.657409667969\t110.297523498535\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.257705688477\t110.297523498535\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.257705688477\t110.329536437988\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t110.329536437988\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'226.271713256836\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'226.271713256836\t110.391334533691\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t110.391334533691\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'225.180923461914\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.180923461914\t110.850578308105\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t110.850578308105\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'225.575103759766\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.575103759766\t110.476486206055\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'226.911865234375\t110.476486206055\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'226.911865234375\t110.695938110352\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.710037231445\t110.695938110352\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.710037231445\t111.316734313965\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t111.316734313965\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'225.377136230469\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.377136230469\t110.710777282715\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t110.710777282715\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'225.364532470703\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.364532470703\t109.633697509766\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.954513549805\t109.633697509766\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.954513549805\t109.70059967041\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t109.70059967041\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'225.217758178711\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.217758178711\t110.055458068848\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.466003417969\t110.055458068848\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.466003417969\t108.615257263184\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t108.615257263184\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'225.229537963867\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.229537963867\t110.029281616211\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t110.029281616211\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'226.065414428711\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'226.065414428711\t109.33251953125\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.67805480957\t109.33251953125\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.67805480957\t110.961395263672\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t110.961395263672\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'225.965744018555\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.965744018555\t111.374626159668\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t111.374626159668\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'223.29914855957\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'223.29914855957\t112.301376342773\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t112.301376342773\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'225.45930480957\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.45930480957\t109.715232849121\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t109.715232849121\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'225.12809753418\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.12809753418\t109.95133972168\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.810180664063\t109.95133972168\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.810180664063\t111.490234375\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'226.035797119141\t111.490234375\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'226.035797119141\t110.086471557617\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t110.086471557617\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'225.468444824219\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'225.468444824219\t110.691467285156\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.578948974609\t110.691467285156\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.578948974609\t159.492141723633\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t159.492141723633\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'223.9345703125\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'223.9345703125\t111.485893249512\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t111.485893249512\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'226.509368896484\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'226.509368896484\t109.777786254883\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'226.168609619141\t109.777786254883\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'226.168609619141\t111.182022094727\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.508209228516\t111.182022094727\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.508209228516\t112.037399291992\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.535491943359\t112.037399291992\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'224.535491943359\t110.946228027344\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+looking to the right of qr code region
+EXTREME WARNING
+b'0\t110.946228027344\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+Looking below of qr code region
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n'
+EXTREME WARNING
+b'0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.688247680664\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.688247680664\t109.468254089355\t0\t0\t0\t0\t0\t0\t0\t0\r\n223.488967895508\t109.468254089355\t0\t0\t0\t0\t0\t0\t0\t0\r\n223.488967895508\t111.266227722168\t0\t0\t0\t0\t0\t0\t0\t0\r\n224.031005859375\t111.266227722168\t0\t0\t0\t0\t0\t0\t0\t0\r\n224.031005859375\t111.526710510254\t0\t0\t0\t0\t0\t0\t0\t0\r\n224.633377075195\t111.526710510254\t0\t0\t0\t0\t0\t0\t0\t0\r\n224.633377075195\t110.698112487793\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t110.698112487793\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.601287841797\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.601287841797\t112.874298095703\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t112.874298095703\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n228.026733398438\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n228.026733398438\t111.529846191406\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t111.529846191406\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.683883666992\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.683883666992\t11'
+EXTREME WARNING
+b'0.269760131836\t0\t0\t0\t0\t0\t0\t0\t0\r\n224.72981262207\t110.269760131836\t0\t0\t0\t0\t0\t0\t0\t0\r\n224.72981262207\t111.001693725586\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t111.001693725586\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n224.676773071289\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n224.676773071289\t109.74494934082\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t109.74494934082\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.302688598633\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.302688598633\t111.219924926758\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.751968383789\t111.219924926758\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.751968383789\t109.234924316406\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t109.234924316406\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n226.64453125\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n226.64453125\t109.166702270508\t0\t0\t0\t0\t0\t0\t0\t0\r\n223.82568359375\t109.166702270508\t0\t0\t0\t0\t0\t0\t0\t0\r\n223.82568359375\t112.235404968262\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.382522583008\t112.235404968262\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.382522583008\t109.313354492188\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t109.313354492188\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n0\t0\t0\t0\t0\t0\t0\t0\t0\t0\r\n225.483032226563\t0\t0\t0\t0\t'
+Traceback (most recent call last):
+  File "aoi.py", line 66, in <module>
+    doublerows = [float(i) for i in row]
+  File "aoi.py", line 66, in <listcomp>
+    doublerows = [float(i) for i in row]
+ValueError: could not convert string to float: ''
+
+C:\Users\hfastdlab\Desktop>
